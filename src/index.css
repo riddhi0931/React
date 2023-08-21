@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("./Components/Images/3.jpg");
+  background-size: cover;
+}
